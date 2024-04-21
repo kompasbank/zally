@@ -1,4 +1,4 @@
-packapackage org.zalando.zally.ruleset.zalando
+package org.zalando.zally.ruleset.zalando
 
 import org.assertj.core.api.Assertions.assertThat
 import org.intellij.lang.annotations.Language
